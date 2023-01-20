@@ -3,7 +3,7 @@
 
 <h1>Bem vindo!</h1>
 
-Criei esse projeto para aprender como serializer as classes em django, usando djangorestframework
+Criei esse projeto para aprender como serializar as classes em django, usando djangorestframework
 
 adquiri diversos conhecimentos, como, classbasedviews, apirest, entre outros
 
